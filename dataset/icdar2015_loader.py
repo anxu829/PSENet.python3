@@ -11,7 +11,7 @@ import torch
 import pyclipper
 import Polygon as plg
 
-ic15_root_dir = r'F:\GitHub\TianRang\dataset\icdar2015/'
+ic15_root_dir = r'F:\GitHub\dataset\icdar2015/'
 ic15_train_data_dir = ic15_root_dir + 'ch4_training_images/'
 ic15_train_gt_dir = ic15_root_dir + 'ch4_training_localization_transcription_gt/'
 ic15_test_data_dir = ic15_root_dir + 'ch4_test_images/'
