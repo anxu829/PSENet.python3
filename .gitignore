@@ -1,0 +1,10 @@
+.idea/
+.ipynb_check/points
+.mypy_cache/
+*.pyc
+*.ipynb_check*
+outputs/
+__pycache__/
+__pycache__
+checkpoints
+checkpoints/
