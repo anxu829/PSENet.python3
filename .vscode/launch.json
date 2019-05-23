@@ -31,9 +31,9 @@
             "pythonPath": "C:\\Users\\an\\Anaconda3\\envs\\pytorch\\python.exe",
             "module": "test_ic15",
             "console": "integratedTerminal",
-            "cwd":"F:\\GitHub\\TianRang\\project\\PSENet\\PSENet",
+            "cwd":"F:\\GitHub\\project\\PSENet\\PSENet",
             "args":[
-              "--scale", "1" ,"--resume" , "F:\\GitHub\\TianRang\\dataset\\icdar2015\\data\\ic15_res50_pretrain_ic17.pth.tar"
+              "--scale", "1" ,"--resume" , "F:\\GitHub\\dataset\\icdar2015\\data\\ic15_res50_pretrain_ic17.pth.tar"
             ]
         },
         {
@@ -43,7 +43,7 @@
             "pythonPath": "C:\\Users\\an\\Anaconda3\\envs\\pytorch\\python.exe",
             "module": "train_ic15",
             "console": "integratedTerminal",
-            "cwd":"F:\\GitHub\\TianRang\\project\\PSENet\\PSENet",
+            "cwd":"F:\\GitHub\\project\\PSENet\\PSENet",
         },
         {
             "name": "Python: Django",
